@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "reboot": "testcafe \"chromium:headless\" src/main.js"
+  },
+  "dependencies": {
+    "testcafe": "^1.20.0"
+  }
+}
+
